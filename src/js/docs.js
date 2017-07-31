@@ -5,7 +5,7 @@ $(function() {
   $('ul.tabs').tabs();
 
   // Links the buttons with their respectives modals.
-  $('.modal-trigger').leanModal();
+  $('.modal-trigger').modal();
 
   // Demo 1.
   $('#demo1').colorpicker();
